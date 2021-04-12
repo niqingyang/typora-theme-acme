@@ -1,2 +1,2 @@
 # typora-theme-acme
-typeora theme
+typeora theme base on typora-theme-github modification
